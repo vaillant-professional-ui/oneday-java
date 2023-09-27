@@ -23,9 +23,9 @@ Because the data may change often, it should be stored in a database to avoid un
 
 ## Definition of Ready
 
-| Done | Content                                                        |
-|------|----------------------------------------------------------------|
-| ✅    | Datasets of standard minimum outdoor temperatures are provided |
+| Done | Content                                                                               |
+|------|---------------------------------------------------------------------------------------|
+| ✅    | Datasets of standard minimum outdoor temperatures are provided (see: datasets/*.json) |
 
 ## Definition of Done
 

@@ -1,0 +1,37 @@
+[
+  {
+    "fromMeters": -10000,
+    "toMeters": 0,
+    "offset": 2
+  },
+  {
+    "fromMeters": 0,
+    "toMeters": 199,
+    "offset": 0
+  },
+  {
+    "fromMeters": 200,
+    "toMeters": 399,
+    "offset": -1
+  },
+  {
+    "fromMeters": 400,
+    "toMeters": 599,
+    "offset": -2
+  },
+  {
+    "fromMeters": 600,
+    "toMeters": 799,
+    "offset": -3
+  },
+  {
+    "fromMeters": 800,
+    "toMeters": 999,
+    "offset": -4
+  },
+  {
+    "fromMeters": 1000,
+    "toMeters": 1200,
+    "offset": -5
+  }
+]

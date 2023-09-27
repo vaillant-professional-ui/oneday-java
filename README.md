@@ -30,8 +30,7 @@ Because the data may change often, it should be stored in a database to avoid un
 ## Definition of Done
 
 * Service is tested adequately with a testing framework of your choice
-* All changes are committed and pushed to a Git repository in our corporate Bitbucket instance
-* A pull request was created and approved by relevant team members (invite username @ixisio as reviewer to the pull request)
+* All changes are committed and pushed to a Git repository
 * The application can be built without errors and produces a potentially shippable artifact (e.g. a JAR or WAR)
 
 ## Acceptance criteria
@@ -49,5 +48,5 @@ Because the data may change often, it should be stored in a database to avoid un
 
 ## Nice to Have
 
-* The application code correctly utilizes Java 8 features (especially streams, lambdas and optionals)
+* The application code correctly utilizes Java 11 features
 * The artifact resulting from the build of the application is a self-contained JAR, that doesn't require running a separate servlet container.

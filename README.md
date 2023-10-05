@@ -4,6 +4,9 @@
 Timebox: **Maximum 3 hours**
 
 Please fork this repository and share your approach via a link to your repository.
+When you start working on this exercise, please perform an initial commit and push to your forked repository.
+Further commits are desireable, also a finish commit.
+
 
 # Story for Java Backend Developer
 
